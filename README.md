@@ -1,2 +1,0 @@
-# SoftwareLicense
-software-defined storage
